@@ -16,8 +16,8 @@ A estrutura central do projeto baseia-se no predicado pergunta/9. Esta modelagem
 pergunta(p01, ciencias, facil, 'Qual gas e essencial para a respiracao?', 'A) Oxigenio', ..., a).
 ```
 - ![Ciências](https://img.shields.io/badge/Ciências-blue)
-- ![História](https://img.shields.io/badge/História-orange)
-- ![Geografia](https://img.shields.io/badge/Geografia-green)
+- ![História](https://img.shields.io/badge/História-pink)
+- ![Geografia](https://img.shields.io/badge/Geografia-yellow)
 - ![Tecnologia](https://img.shields.io/badge/Tecnologia-black)
 - ![Matemática](https://img.shields.io/badge/Matemática-red)
 - ![Astronomia](https://img.shields.io/badge/Astronomia-blueviolet)
