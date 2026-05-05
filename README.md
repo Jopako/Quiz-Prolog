@@ -1,6 +1,6 @@
-# Prolog Quiz
+# Prolog Quiz <img width="128" height="128" alt="swipl-128" src="https://github.com/user-attachments/assets/385f6aee-1474-4252-b9fa-5e64fbb9d26b" />
 
-<img width="184" height="58" alt="Captura de tela de 2026-05-05 12-16-48" src="https://github.com/user-attachments/assets/f2f85322-24b4-4e2b-b7a3-8d0a06409755" />
+
 
 Este projeto é um Quiz desenvolvido em Prolog, utilizando o paradigma de programação lógica. O sistema foi projetado para demonstrar conceitos de Unificação, Backtracking e Recursão sobre Listas, separando inteiramente a base de conhecimento da lógica de execução.
 
