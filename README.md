@@ -69,3 +69,6 @@ Escolha categoria [ciencias, historia, geografia, tecnologia, matematica, astron
 Escolha dificuldade [facil, medio, dificil]:
 |: dificil
 ```
+
+<img width="956" height="569" alt="Captura de tela de 2026-05-05 12-14-33" src="https://github.com/user-attachments/assets/bb23d4c8-2037-4f7a-8aca-1a2a4733cd6a" />
+
