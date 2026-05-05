@@ -1,4 +1,3 @@
-:- use_module(library(readutil)).
 :- use_module(library(random)).
 
 % =========================================
