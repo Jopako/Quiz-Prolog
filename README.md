@@ -1,5 +1,5 @@
 <div  align="center">
-  <h1 style="color: #ff5733;">Prolog Quiz </h1>
+    <h1 style="color: orange;">Prolog Quiz</h1>
 <img width="128" height="128" alt="swipl-128" src="https://github.com/user-attachments/assets/9aa9961a-4100-492b-b5cd-a3284d7a8000" />
   <br>
 </div>
