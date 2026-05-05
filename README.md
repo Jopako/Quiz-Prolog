@@ -59,7 +59,7 @@ Use o predicado para iniciar o jogo:
 ```prolog
 jogar.
 ```
-Escolha a categoria e a dificuldade desejada:
+Escolha a categoria e a dificuldade desejada, se divirta!:
 ```prolog
 === BEM-VINDO AO QUIZ ===
 
