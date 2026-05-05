@@ -78,3 +78,8 @@ Escolha dificuldade [facil, medio, dificil]:
 
 <img width="956" height="569" alt="Captura de tela de 2026-05-05 12-14-33" src="https://github.com/user-attachments/assets/bb23d4c8-2037-4f7a-8aca-1a2a4733cd6a" />
 
+## Conclusão 
+Este projeto é um jogo de perguntas e respostas (quiz). A ideia é simples: você escolhe um tema (como Ciências, História, Geografia...) e um nível de dificuldade, e o programa vai apresentando uma sequência de perguntas para você responder. A cada resposta, ele informa se você acertou ou errou e mostra qual era a alternativa correta.
+
+No fim, o quiz funciona como uma forma leve de testar conhecimentos e aprender, porque você pode repetir quantas vezes quiser e alternar entre categorias e dificuldades. Também é um projeto que abre espaço para crescer: dá para adicionar mais perguntas e, se quiser melhorar a experiência, incluir pontuação, ranking e modos de jogo diferentes.
+
